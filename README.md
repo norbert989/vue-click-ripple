@@ -1,6 +1,6 @@
 # vue-click-ripple
 
-> Material clicl ripple directive for Vue
+> Material click ripple directive for Vue
 
 ## Build Setup
 
